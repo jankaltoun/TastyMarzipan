@@ -1,0 +1,6 @@
+framework module Swinject {
+  umbrella header "Swinject-macOS-umbrella.h"
+
+  export *
+  module * { export * }
+}

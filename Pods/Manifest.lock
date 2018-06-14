@@ -1,0 +1,36 @@
+PODS:
+  - Alamofire (4.7.2)
+  - PromiseKit (6.3.0):
+    - PromiseKit/CorePromise (= 6.3.0)
+    - PromiseKit/Foundation (= 6.3.0)
+    - PromiseKit/UIKit (= 6.3.0)
+  - PromiseKit/Alamofire (6.3.0):
+    - Alamofire (~> 4.0)
+    - PromiseKit/CorePromise
+  - PromiseKit/CorePromise (6.3.0)
+  - PromiseKit/Foundation (6.3.0):
+    - PromiseKit/CorePromise
+  - PromiseKit/UIKit (6.3.0):
+    - PromiseKit/CorePromise
+  - Swinject (2.4.1)
+
+DEPENDENCIES:
+  - Alamofire
+  - PromiseKit
+  - PromiseKit/Alamofire
+  - Swinject
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Alamofire
+    - PromiseKit
+    - Swinject
+
+SPEC CHECKSUMS:
+  Alamofire: e4fa87002c137ba2d8d634d2c51fabcda0d5c223
+  PromiseKit: cf84bbb1235a61473b326c5cf0b41f6828f87ba5
+  Swinject: f7f15a9672e99328c1f07f277091087917215700
+
+PODFILE CHECKSUM: 54b2cff687d1635a1d33d903878c8830f989caf0
+
+COCOAPODS: 1.5.3

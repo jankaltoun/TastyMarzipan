@@ -2,6 +2,10 @@
 
 This is a demo of a simple iOS/Mac app using UIKit with the same codebase for both platforms.
 
+## Blog post
+
+I put together a blog post about this adventure. You can read it here: https://blog.kaltoun.cz/marzipan-uikit-on-macos/
+
 ## Requirements
 
 This demo requires you to add `UIKit.framework` to `./StolenFrameworks`.
